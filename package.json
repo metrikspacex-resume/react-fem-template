@@ -39,12 +39,12 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
   },
-  "homepage": "https://metrikspacex.github.io/react-fem-template",
+  "homepage": "https://metrikspacex-resume.github.io/react-fem-template/",
   "name": "react-fem-template",
   "private": true,
   "repository": {
     "type": "github",
-    "url": "https://github.com/metrikspacex-resume/react-fem-template"
+    "url": "https://github.com/metrikspacex-resume/react-fem-template/"
   },
   "scripts": {
     "build": "tsc && vite build",

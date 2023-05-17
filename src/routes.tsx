@@ -5,6 +5,6 @@ import Home from "./pages/home";
 export default createBrowserRouter([
   {
     element: <Home />,
-    path: "/",
+    path: "/react-fem-template",
   },
 ]);
